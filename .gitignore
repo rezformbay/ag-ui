@@ -48,3 +48,9 @@ next-env.d.ts
 agent/venv/
 __pycache__/
 .venv/
+
+# Added by CopilotKit CLI: managed Channel setup credentials and artifacts.
+.env
+.env.*
+.copilotkit/artifacts/
+agent/node_modules

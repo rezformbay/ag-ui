@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "name": "my-ag-ui-app",
+      "displayName": "my-ag-ui-app",
+      "providers": {
+        "teams": {
+          "env": {
+            "clientId": "INTELLIGENCE_CHANNEL_MY_AG_UI_APP_TEAMS_CLIENT_ID",
+            "clientSecret": "INTELLIGENCE_CHANNEL_MY_AG_UI_APP_TEAMS_CLIENT_SECRET",
+            "tenantId": "INTELLIGENCE_CHANNEL_MY_AG_UI_APP_TEAMS_TENANT_ID"
+          }
+        }
+      }
+    }
+  ]
+}
